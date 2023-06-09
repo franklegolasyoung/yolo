@@ -1,0 +1,6 @@
+train: ../data/receipts/train/images
+val: ../data/receipts/valid/images
+test: ../data/receipts/test/images
+
+nc: 1
+names: ['text']
